@@ -5,4 +5,4 @@ We construct indicators of uncertainty and risk using a stochastic volatility VA
 and asymmetries in the distributions of future macroeconomic and financial variables. The model, estimated with Bayesian techniques and real-time data, points to a 
 rich correlation structure among measures of uncertainty and risk in both macroeconomic and financial conditions. 
 
-Data updates, charts, and other information can be found here: [Website](caldara-data-share.github.io/CSZ/CSZ-data-update)
+Data updates, charts, and other information can be found here: [Website](CSZ-data-update)
